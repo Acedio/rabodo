@@ -397,7 +397,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Flatbox-rev5.kicad_pro",
+    "filename": "rabodo.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -472,7 +472,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "Flatbox-rev5.step",
+      "step": "rabodo.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

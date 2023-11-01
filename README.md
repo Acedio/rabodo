@@ -1,3 +1,9 @@
+# rabodo (ラボード)
+
+A leverless layout. Planning to add a laser-cut acryllic/wood case.
+
+![The PCB layout.](pcb.png)
+
 PCB is based on https://github.com/jfedor2/flatbox, specifically the Rev5
 design.
 
