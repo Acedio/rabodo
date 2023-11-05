@@ -1,13 +1,22 @@
 # rabodo (ラボード)
 
-A leverless layout. Planning to add a laser-cut acryllic/wood case.
+A leverless layout utilizing GP2040-CE. Planning to add a laser-cut
+acryllic/wood case.
+
+Intended to run GP2040-CE on the attached WaveShare RP2040-Zero.
 
 ![The PCB layout.](pcb.png)
 
-PCB is based on https://github.com/jfedor2/flatbox, specifically the Rev5
-design. Also lots of inspiration from Dural
-https://github.com/BatiKING/DURAL_DIY! Thank you to jfedor2 and BatiKING for
-their awesome work on these.
+## Acknowledgements and thanks!
+
+PCB is based on the [Flatbox](https://github.com/jfedor2/flatbox) design,
+specifically the Rev5. Also takes a lot of case inspiration from the
+[Dural](https://github.com/BatiKING/DURAL_DIY) project! Thank you to jfedor2 and
+BatiKING for your awesome work on these.
+
+Also a huge thanks to all the contributors on the
+[GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) project! Excellent
+firmware and community :D
 
 PCB design licensed under CC BY-SA 4.0.
 
