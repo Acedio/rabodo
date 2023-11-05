@@ -1519,6 +1519,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 57.15 191.77 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 27e1f9d3-fa2a-4aee-85fd-3fb2fa88f0e0)
+    (property "Reference" "H9" (at 59.69 190.4999 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (at 59.69 193.0399 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_6.4mm_M6" (at 57.15 191.77 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 57.15 191.77 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "rabodo"
+        (path "/476e1f68-8aac-4dba-a60f-5d5808a2f7b0"
+          (reference "H9") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Switch:SW_Push") (at 116.84 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4061a9bd-2944-4d55-8f8e-2c20d5c4e375)
@@ -1588,6 +1612,30 @@
       (project "rabodo"
         (path "/476e1f68-8aac-4dba-a60f-5d5808a2f7b0"
           (reference "H7") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 76.2 179.07 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 6f4cf2c1-4958-479c-bb7f-f04e9cc4784b)
+    (property "Reference" "H10" (at 78.74 177.7999 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (at 78.74 180.3399 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_6.4mm_M6" (at 76.2 179.07 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 76.2 179.07 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "rabodo"
+        (path "/476e1f68-8aac-4dba-a60f-5d5808a2f7b0"
+          (reference "H10") (unit 1)
         )
       )
     )
@@ -1733,6 +1781,30 @@
       (project "rabodo"
         (path "/476e1f68-8aac-4dba-a60f-5d5808a2f7b0"
           (reference "#PWR019") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 57.15 185.42 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid f65fbbd1-255d-4e1e-bb76-5c9823ba8711)
+    (property "Reference" "H8" (at 59.69 184.1499 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (at 59.69 186.6899 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_6.4mm_M6" (at 57.15 185.42 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 57.15 185.42 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "rabodo"
+        (path "/476e1f68-8aac-4dba-a60f-5d5808a2f7b0"
+          (reference "H8") (unit 1)
         )
       )
     )
