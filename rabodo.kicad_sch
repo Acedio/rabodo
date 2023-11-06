@@ -645,8 +645,8 @@
     (property "Datasheet" "~" (at 154.94 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5be3f3d2-17dd-44b1-91ca-3139cbfae6c4))
-    (pin "2" (uuid 2f3922f2-e905-4fcb-8e2f-7063bc637ec0))
+    (pin "1" (uuid 8300f9e3-0251-4b56-9cb5-f5019991f813))
+    (pin "2" (uuid 18809c45-9e69-429b-9770-2364eeb665d0))
     (instances
       (project "rabodo"
         (path "/476e1f68-8aac-4dba-a60f-5d5808a2f7b0"

@@ -16,7 +16,9 @@ BatiKING for your awesome work on these.
 
 Also a huge thanks to all the contributors on the
 [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) project! Excellent
-firmware and community :D
+firmware and community :D Special thanks to
+(TheTrain)[https://github.com/TheTrainGoes] for help reviewing the PCB before
+printing!
 
 PCB design licensed under CC BY-SA 4.0.
 
