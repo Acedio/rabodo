@@ -3,9 +3,27 @@
 A leverless layout utilizing GP2040-CE. Planning to add a laser-cut
 acryllic/wood case.
 
-Intended to run GP2040-CE on the attached WaveShare RP2040-Zero.
+Runs GP2040-CE on the attached WaveShare RP2040-Zero.
+
+![An assembled Rabodo.](assembled.jpg)
 
 ![The PCB layout.](pcb.png)
+
+## Assembly details
+
+ - The PCB and case are designed to be held together with short (6mm) M4 screws
+   and threaded heat-set inserts. The heat-set inserts are not actually melted
+   into the acrylic, they were just the right form-factor for what I needed :)
+ - I found 3mm acrylic was a good thickness for the top and bottom layers. The
+   mid-layers on my final board were 3mm below the PCB and 4mm (2x2mm) above the
+   PCB.
+ - For the Kailh Choc V1 buttons, I've been experimenting with
+   [these](https://www.printables.com/model/290182-arcade-button-caps-for-mx-and-kailh-low-profile-ke),
+   but I'm finding it hard to keep them glued. I've not tried melting the PLA
+   together yet, though, as I don't have a soldering tip I'm willing to
+   sacrifice 😅
+   [These](https://www.printables.com/model/176451-three-piece-flatbox-buttons-sturdier-prongs)
+   seem like another promising option.
 
 ## Acknowledgements and thanks!
 
@@ -20,7 +38,7 @@ firmware and community :D Special thanks to
 [TheTrain](https://github.com/TheTrainGoes) for help reviewing the PCB before
 printing!
 
-PCB design licensed under CC BY-SA 4.0.
+PCB and case design licensed under CC BY-SA 4.0.
 
 PCB design uses the following:
 
